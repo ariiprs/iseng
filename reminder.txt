@@ -1,3 +1,0 @@
-MATERI TERAKHIR ADA
- yg harus dimulai
-operator pada javascript : LOGIKA,STRING,TYPEOF
